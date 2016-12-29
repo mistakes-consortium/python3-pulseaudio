@@ -9,6 +9,6 @@ setup(name='libpulseaudio3',
       author_email='kristaps.karlsons@gmail.com',
       license='LGPL',
       url='http://github.com/skakri/python3-pulseaudio',
-      packages=['pulseaudio'],
+      packages=['libpulseaudio3'],
       provides=['libpulseaudio3']
      )
